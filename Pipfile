@@ -8,6 +8,8 @@ django = "*"
 django-crispy-forms = "*"
 gunicorn = "*"
 whitenoise = "*"
+dj-database-url = "*"
+django-environ = "*"
 
 [dev-packages]
 
